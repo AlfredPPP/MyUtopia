@@ -1,3 +1,6 @@
 [submodule "my_utopia_flutter"]
 	path = my_utopia_flutter
 	url = https://github.com/AlfredPPP/my_utopia_flutter
+[submodule "my_utopia_backend"]
+	path = my_utopia_backend
+	url = https://github.com/AlfredPPP/my_utopia_backend.git
